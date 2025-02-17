@@ -1,1 +1,1 @@
-# git-talks
+# git-talks 1.2
